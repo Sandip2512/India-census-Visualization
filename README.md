@@ -1,7 +1,7 @@
 # India Census Visualization
+![alt text](https://github.com/Sandip2512/India-census-Visualization/blob/ea076e2423911d7e3377a4dc1e9f6565d713b7c9/India%20Census%20Visualization%20image.png)
 
-![India Census Visualization image.png]([India Census Visualization image.png](https://github.com/Sandip2512/India-census-Visualization/blob/main/India%20Census%20Visualization%20image.png)) (Replace with your project's screenshot or logo)
-
+https://github.com/Sandip2512/India-census-Visualization/blob/ea076e2423911d7e3377a4dc1e9f6565d713b7c9/India%20Census%20Visualization%20image.png
 A data visualization project that presents India's census data through various graphs and charts. This project provides insights into the sex ratio, literacy rate, households with internet access, and population in different regions of India.
 
 ## Table of Contents
