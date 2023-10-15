@@ -43,21 +43,5 @@ Provide a brief description of your project. Explain what your project aims to a
 ## Data Sources
 - List the sources of the census data you used, and if possible, provide links or references to these sources. This adds credibility to your project.
 - dataset link --> https://www.kaggle.com/datasets/sirpunch/indian-census-data-with-geospatial-indexing
-## Contributing
-- Explain how others can contribute to your project, such as:
-  - Reporting issues or bugs.
-  - Submitting pull requests for new features or fixes.
-  - Providing feedback and suggestions.
 
-## License
-- Specify the license under which your project is released. You can use an open-source license like MIT, GNU, or Apache, or create your own.
-
----
-
-### Credits
-- Give credit to any individuals or organizations whose work or tools you used in your project.
-- Acknowledge any data sources, libraries, or frameworks that made your project possible.
-  
-
-**Happy Data Visualization!**
 
