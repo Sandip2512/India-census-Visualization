@@ -10,8 +10,6 @@ A data visualization project that presents India's census data through various g
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Data Sources](#data-sources)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 Provide a brief description of your project. Explain what your project aims to achieve, why it exists, and what makes it unique. Mention the purpose of visualizing India's census data and what insights users can gain from your project.
