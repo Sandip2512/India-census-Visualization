@@ -1,6 +1,6 @@
 # India Census Visualization
 
-![Project Image](your_image_url.png) (Replace with your project's screenshot or logo)
+![Project Image](India Census Visualization image.png) (Replace with your project's screenshot or logo)
 
 A data visualization project that presents India's census data through various graphs and charts. This project provides insights into the sex ratio, literacy rate, households with internet access, and population in different regions of India.
 
